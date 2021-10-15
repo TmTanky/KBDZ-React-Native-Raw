@@ -1,4 +1,4 @@
-package com.kbdz;
+package com.dlep.kbdz;
 
 import com.facebook.react.ReactActivity;
 
